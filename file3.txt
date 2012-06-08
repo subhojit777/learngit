@@ -1,2 +1,3 @@
 This is file 3. Your text goes here...
 Some more text for testing the working of git remote repo.
+Again, some more and more text for testing git remote.
